@@ -2,7 +2,7 @@ from pyrogram import Client, filters
 from pyrogram import Client
 from pyrogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton
 import asyncio
-
+from MukeshRobot.modules.connection import connected
 
 # ... other initialization code ...
 
